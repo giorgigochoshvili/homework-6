@@ -1,0 +1,125 @@
+.header{
+	width: 1360px;
+	height: 81px;
+	
+
+}
+.navigation{
+    display: inline-block;
+}
+.nav-li{
+	display: inline-block;
+	margin-right: 51px;
+	vertical-align: middle;
+	font-size: 13px;
+	font-family: Helvetica;
+	
+}
+.la{
+	color: black;
+
+}
+.logo{
+	width: 133px;
+	height: 31px;
+	vertical-align: middle;
+	margin-right: 450px;
+}
+.header{
+	padding-left: 95px;
+	padding-right: 96px;
+	padding-bottom: 25px;
+	padding-top: 25px;
+}
+.l1{
+	width: 46px;
+	height: 13px;
+}
+.l2{
+	width: 75px;
+	height: 13px;
+}
+.l3{
+	width: 107px;
+	height: 13px;
+}
+.l4{
+	width: 114px;
+	height: 13px;
+}
+.image-wrapper{
+	width: 1360px;
+	height: 569px;
+	background-image: url("../images/greece.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding-top: 226px;
+	padding-bottom: 221px;
+	padding-left: 416px;
+	padding-right: 356px;
+	position: relative;
+	opacity: 0.5;
+	
+
+}
+.sat1{
+	width: 588px;
+	height: 60px;
+	font-family: Helvetica;
+	color: white;
+	font-size: 60px;
+
+}
+.sat2{
+	width: 295px;
+	height: 16px;
+	margin-top: 55px;
+	font-family: Helvetica;
+	color: white;
+	font-size: 15px;
+	position: absolute;
+	transform: translateX(70px);
+}
+.container{
+	width: 1360px;
+	height: 327px;
+	margin-top: 50px;
+	margin-left: 30px;
+	margin-bottom: 60px;
+
+
+}
+.div1{
+	width: 301px;
+	height: 327px;
+	background-color: blue;
+	display: inline-block;
+	margin-right: 10px;
+}
+.cards-section{
+	margin-top: 50px;
+	display:flex;
+	width: 1360px;
+	column-gap: 40px;
+	flex-wrap: wrap;
+	justify-content: flex-end;
+}
+.card{
+	width: 301px;
+	height: 327px;
+	border: 1px solid #888;
+}
+h2{
+	width: 151px;
+	height: 14px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+
+}
+h3{
+	width: 268px;
+	height: 94px;
+	
+
+}
